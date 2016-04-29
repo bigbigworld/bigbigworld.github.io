@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>elliot47</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-04-29T11:33:02.664Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://elliot.com/"/>
+  <updated>2016-04-29T12:09:33.015Z</updated>
+  <id>http://elliot.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>elliot</name>
     
   </author>
   
@@ -17,10 +17,10 @@
   
   <entry>
     <title>First Post</title>
-    <link href="http://yoursite.com/2016/04/29/first-post/"/>
-    <id>http://yoursite.com/2016/04/29/first-post/</id>
+    <link href="http://elliot.com/2016/04/29/first-post/"/>
+    <id>http://elliot.com/2016/04/29/first-post/</id>
     <published>2016-04-29T11:29:17.000Z</published>
-    <updated>2016-04-29T11:33:02.664Z</updated>
+    <updated>2016-04-29T12:09:33.015Z</updated>
     
     <content type="html">&lt;h1 id=&quot;WECLOME&quot;&gt;&lt;a href=&quot;#WECLOME&quot; class=&quot;headerlink&quot; title=&quot;WECLOME&quot;&gt;&lt;/a&gt;WECLOME&lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;Nice to meet you!&lt;/p&gt;
@@ -37,14 +37,14 @@
     </summary>
     
     
-      <category term="first" scheme="http://yoursite.com/tags/first/"/>
+      <category term="first" scheme="http://elliot.com/tags/first/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/04/25/hello-world/"/>
-    <id>http://yoursite.com/2016/04/25/hello-world/</id>
+    <link href="http://elliot.com/2016/04/25/hello-world/"/>
+    <id>http://elliot.com/2016/04/25/hello-world/</id>
     <published>2016-04-25T06:06:10.136Z</published>
     <updated>2016-04-29T11:28:45.389Z</updated>
     
