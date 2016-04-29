@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://elliot.com/"/>
-  <updated>2016-04-29T12:09:33.015Z</updated>
-  <id>http://elliot.com/</id>
+  <link href="http://elliot47.com/"/>
+  <updated>2016-04-29T13:07:01.693Z</updated>
+  <id>http://elliot47.com/</id>
   
   <author>
     <name>elliot</name>
@@ -17,34 +17,34 @@
   
   <entry>
     <title>First Post</title>
-    <link href="http://elliot.com/2016/04/29/first-post/"/>
-    <id>http://elliot.com/2016/04/29/first-post/</id>
+    <link href="http://elliot47.com/2016/04/29/first-post/"/>
+    <id>http://elliot47.com/2016/04/29/first-post/</id>
     <published>2016-04-29T11:29:17.000Z</published>
-    <updated>2016-04-29T12:09:33.015Z</updated>
+    <updated>2016-04-29T13:07:01.693Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;WECLOME&quot;&gt;&lt;a href=&quot;#WECLOME&quot; class=&quot;headerlink&quot; title=&quot;WECLOME&quot;&gt;&lt;/a&gt;WECLOME&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;Nice to meet you!&lt;/p&gt;
-&lt;p&gt;​                - Elliot&lt;/p&gt;
+    <content type="html">&lt;p&gt;Nice to meet you&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;WECLOME&quot;&gt;&lt;a href=&quot;#WECLOME&quot; class=&quot;headerlink&quot; title=&quot;WECLOME&quot;&gt;&lt;/a&gt;WECLOME&lt;/h2&gt;&lt;h3 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;天才向左，疯子向右。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log(&lt;span class=&quot;string&quot;&gt;&quot;I am elliot47. I am happy programmer.&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;WECLOME&quot;&gt;&lt;a href=&quot;#WECLOME&quot; class=&quot;headerlink&quot; title=&quot;WECLOME&quot;&gt;&lt;/a&gt;WECLOME&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;Nice to meet you!&lt;/p&gt;
-&lt;p&gt;​           
+      &lt;p&gt;Nice to meet you&lt;/p&gt;
     
     </summary>
     
     
-      <category term="first" scheme="http://elliot.com/tags/first/"/>
+      <category term="first" scheme="http://elliot47.com/tags/first/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://elliot.com/2016/04/25/hello-world/"/>
-    <id>http://elliot.com/2016/04/25/hello-world/</id>
+    <link href="http://elliot47.com/2016/04/25/hello-world/"/>
+    <id>http://elliot47.com/2016/04/25/hello-world/</id>
     <published>2016-04-25T06:06:10.136Z</published>
     <updated>2016-04-29T11:28:45.389Z</updated>
     
