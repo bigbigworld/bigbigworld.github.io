@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://elliot47.com/"/>
-  <updated>2016-04-29T13:07:01.693Z</updated>
-  <id>http://elliot47.com/</id>
+  <link href="http://www.elliot47.com/"/>
+  <updated>2016-05-06T12:55:26.868Z</updated>
+  <id>http://www.elliot47.com/</id>
   
   <author>
     <name>elliot</name>
@@ -16,9 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Vim 宏</title>
+    <link href="http://www.elliot47.com/2016/05/06/vim-macros/"/>
+    <id>http://www.elliot47.com/2016/05/06/vim-macros/</id>
+    <published>2016-05-06T12:42:27.000Z</published>
+    <updated>2016-05-06T12:55:26.868Z</updated>
+    
+    <content type="html">&lt;p&gt;在工作中，你可能遇到大量重复性的任务，它们繁琐而且无趣，如何加快速度完结掉它呢？如果你是Vimer，请继续往下看，我将使用Vim宏来提升工作效率，这是我一次偶然的尝试，结果我就发现我再也离不开它了，它真的很强大，强烈推荐你使用。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;Vim-宏如何创建？&quot;&gt;&lt;a href=&quot;#Vim-宏如何创建？&quot; class=&quot;headerlink&quot; title=&quot;Vim 宏如何创建？&quot;&gt;&lt;/a&gt;Vim 宏如何创建？&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;进入命令模式。&lt;/li&gt;
+&lt;li&gt;按下&lt;code&gt;q+任意单个字符&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;记录动作。&lt;/li&gt;
+&lt;li&gt;再次进入命令模式。&lt;/li&gt;
+&lt;li&gt;按q结束。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;Vim-宏如何使用？&quot;&gt;&lt;a href=&quot;#Vim-宏如何使用？&quot; class=&quot;headerlink&quot; title=&quot;Vim 宏如何使用？&quot;&gt;&lt;/a&gt;Vim 宏如何使用？&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;进入命令模式。&lt;/li&gt;
+&lt;li&gt;按下&lt;code&gt;@+预设单个字符&lt;/code&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在工作中，你可能遇到大量重复性的任务，它们繁琐而且无趣，如何加快速度完结掉它呢？如果你是Vimer，请继续往下看，我将使用Vim宏来提升工作效率，这是我一次偶然的尝试，结果我就发现我再也离不开它了，它真的很强大，强烈推荐你使用。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="vim" scheme="http://www.elliot47.com/tags/vim/"/>
+    
+  </entry>
+  
+  <entry>
     <title>First Post</title>
-    <link href="http://elliot47.com/2016/04/29/first-post/"/>
-    <id>http://elliot47.com/2016/04/29/first-post/</id>
+    <link href="http://www.elliot47.com/2016/04/29/first-post/"/>
+    <id>http://www.elliot47.com/2016/04/29/first-post/</id>
     <published>2016-04-29T11:29:17.000Z</published>
     <updated>2016-04-29T13:07:01.693Z</updated>
     
@@ -37,14 +70,14 @@
     </summary>
     
     
-      <category term="first" scheme="http://elliot47.com/tags/first/"/>
+      <category term="first" scheme="http://www.elliot47.com/tags/first/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://elliot47.com/2016/04/25/hello-world/"/>
-    <id>http://elliot47.com/2016/04/25/hello-world/</id>
+    <link href="http://www.elliot47.com/2016/04/25/hello-world/"/>
+    <id>http://www.elliot47.com/2016/04/25/hello-world/</id>
     <published>2016-04-25T06:06:10.136Z</published>
     <updated>2016-04-29T11:28:45.389Z</updated>
     
